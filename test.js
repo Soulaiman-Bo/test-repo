@@ -1,11 +1,8 @@
 import React from 'react'
 
 const test = () => {
-    return (
-        <div>
-            hello motherfucker 
-        </div>
-    )
+    console.log("Hello Motherfucker")
+    return "I'm a nice guy"
 }
 
 export default test
